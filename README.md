@@ -9,7 +9,7 @@ This repository implements a pretrained Spatial-CNN (SCNN)[1] lane detection mod
 - Autonomous Driving Toolbox&trade;.
 
 ## Overview
-This repository implements SCNN with VGG-16 as the backbone. The pretrained network is trained to detect lanes in the image. The network is trained using [CULane](https://xingangpan.github.io/projects/CULane.html) dataset[2].
+This repository implements SCNN with VGG-16 as the backbone. The pretrained network is trained to detect lanes in the image. The network is trained using [CULane](https://xingangpan.github.io/projects/CULane.html) dataset[1].
 
 Spatial-CNN (SCNN) uses slice-by-slice convolutions on the feature maps obtained by layer-by-layer convolutions since the spatial information can be reinforced via inter-layer propagation. This helps in detecting objects with strong structure prior but less appearance clues such as lanes, poles, or trucks with occlusions.
 
