@@ -22,7 +22,7 @@ classdef(SharedTestFixtures = {DownloadSCNNLaneDetectionFixture}) tPretrainedSCN
             test.verifyClass(laneMarkings,'cell');
             
             % verifying size of output from detectLaneMarkings.
-            test.verifyEqual(size(laneMarkings{1}),[321 2]);
+            test.verifyEqual(size(laneMarkings{1}),[322 2]);
             test.verifyEqual(size(laneMarkings{2}),[560 2]);
             test.verifyEqual(size(laneMarkings{3}),[556 2]);
             test.verifyEqual(size(laneMarkings{4}),[0 0]);
