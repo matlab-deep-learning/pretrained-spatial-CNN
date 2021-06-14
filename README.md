@@ -1,4 +1,4 @@
-# Lane Detection Using Pre-trained Spatial-CNN
+# Lane Detection Using Deep Learning
 
 This repository implements a pretrained Spatial-CNN (SCNN)[1] lane detection model in MATLAB&reg;.
 
