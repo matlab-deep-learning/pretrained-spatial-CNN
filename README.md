@@ -6,7 +6,7 @@ This repository implements a pretrained Spatial-CNN (SCNN)[1] lane detection mod
 - MATLAB&reg; R2021a or later.
 - Deep Learning Toolbox&trade;.
 - Computer Vision Toolbox&trade;.
-- Autonomous Driving Toolbox&trade;.
+- Automated Driving Toolbox&trade;.
 
 ## Overview
 This repository implements SCNN with VGG-16 as the backbone. The pretrained network is trained to detect lanes in the image. The network is trained using [CULane](https://xingangpan.github.io/projects/CULane.html) dataset[1].
