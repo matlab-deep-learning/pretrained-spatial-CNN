@@ -93,7 +93,7 @@ SCNN network in this repository has 4 message passing layers in sequence in the 
 
 [1] Xingang Pan, Jianping Shi, Ping Luo, Xiaogang Wang, and Xiaoou Tang. "Spatial As Deep: Spatial CNN for Traffic Scene Understanding" AAAI Conference on Artificial Intelligence (AAAI) - 2018
 
-[2] [Panda Set](https://scale.com/open-datasets/pandaset) is provided by Hesai and Scale under the [CC-BY-4.0 license](https://creativecommons.org/licenses/by/4.0)
+[2] [Panda Set] is provided by Hesai and Scale under the [CC-BY-4.0 license](https://creativecommons.org/licenses/by/4.0)
 
 ## See also
 [Visual Perception Using Monocular Camera](https://www.mathworks.com/help/driving/ug/visual-perception-using-monocular-camera.html)
