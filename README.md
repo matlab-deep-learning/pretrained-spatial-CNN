@@ -56,7 +56,7 @@ Alternatively, you can also run the SCNN model on sample videos. Use the script 
 
 
 ### Result
-Left-side image is the input and right-side image shows the detected lanes. The image is taken from the [Panda Set](https://scale.com/open-datasets/pandaset) dataset[2].
+Left-side image is the input and right-side image shows the detected lanes. The image is taken from the [Panda Set] dataset[2].
 
 <table>
 <tr>
